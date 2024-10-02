@@ -25,4 +25,4 @@ Optei por não seguir uma arquitetura de microserviços, já que isso poderia ac
 1. **Criar o container**: utilize o comando na raiz do projeto bara o build da aplicação.
 
    ```bash
-     docker-compose up --build
+     docker-compose up
